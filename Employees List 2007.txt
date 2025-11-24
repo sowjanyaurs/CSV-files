@@ -1,0 +1,62 @@
+Year	Full Name	Status	Department
+2007	Ted Wise	Contract	Product Development
+2007	Diane Gordon	Contract	Account Management
+2007	Laura Guerrero	Half-Time	IT
+2007	Holly Kemp	Full Time	Manufacturing
+2007	Lynne Wagner	Full Time	Product Development
+2007	Rena Bush	Contract	Marketing
+2007	William Austin	Full Time	Account Management
+2007	Cynthia Ortiz	Half-Time	Quality Control
+2007	Kyle Drake	Full Time	Manufacturing
+2007	Max Mendez	Full Time	Manufacturing
+2007	Kevin Shannon	Full Time	Account Management
+2007	Lisa Hunter	Full Time	Account Management
+2007	David Bell	Contract	Manufacturing
+2007	Laura Farrell	Full Time	Facilities/Engineering
+2007	Kevin Wade	Full Time	Green Building
+2007	Mark Nash	Full Time	Manufacturing
+2007	Marcus Woods	Full Time	Quality Assurance
+2007	Jon Salinas	Full Time	Quality Control
+2007	Christian Watson	Full Time	Manufacturing
+2007	Rodney Luna	Full Time	IT
+2007	Roque Coleman	Full Time	Manufacturing
+2007	Benjamin Walton	Full Time	Environmental Compliance
+2007	John Bond	Half-Time	Environmental Compliance
+2007	Craig Hodge	Hourly	Quality Assurance
+2007	Barbara Sweeney	Full Time	Quality Control
+2007	Anthony Henderson	Full Time	Quality Control
+2007	Carlos Wells	Full Time	Account Management
+2007	Larry Weber	Full Time	ADC
+2007	Mary Jo Johnson	Full Time	Quality Assurance
+2007	Stephanie Cox	Full Time	Manufacturing
+2007	Juan Bishop	Half-Time	Marketing
+2007	Blane Foster	Hourly	Quality Assurance
+2007	Mark Conley	Full Time	Manufacturing
+2007	Guy Vincent	Full Time	Manufacturing
+2007	Jack Cortez	Full Time	Green Building
+2007	Chad Tran	Half-Time	Major Mfg Projects
+2007	Chris Frazier	Full Time	Manufacturing
+2007	Gary Watkins	Full Time	Account Management
+2007	Matt Stephenson	Contract	Human Resources
+2007	Therese Pacheco	Contract	Green Building
+2007	Monica Hicks	Contract	Quality Control
+2007	Julian Zimmerman	Half-Time	Quality Control
+2007	Kathryn Blackburn	Contract	Manufacturing
+2007	Justin McConnell	Contract	Manufacturing
+2007	Margarita Roy	Full Time	Quality Control
+2007	Kim Perez	Contract	Manufacturing
+2007	Carolyn Whitehead	Full Time	Facilities/Engineering
+2007	Ann Valdez	Contract	Marketing
+2007	Pat Shaw	Contract	Account Management
+2007	Christine Golden	Full Time	Manufacturing
+2007	Chris Garrett	Full Time	Quality Control
+2007	Ryan Ryan	Contract	Manufacturing
+2007	Eric Floyd	Contract	IT
+2007	Robert Daniel	Contract	Human Resources
+2007	Michael Collins	Contract	Manufacturing
+2007	Sheryl Bradshaw	Contract	Research/Development
+2007	Daniel Malone	Full Time	Environmental Health/Safety
+2007	Dennis Buchanan	Contract	Quality Control
+2007	Michael Noble	Full Time	Product Development
+2007	Michael Barron	Full Time	Manufacturing
+2007	Steven McClain	Full Time	IT
